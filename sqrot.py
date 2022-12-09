@@ -24,7 +24,3 @@ elif x * x == sqr:
     
 else:
     print("An error occurred because the code is a piece of shit")
-    
-#10.583005244258361    
-#0.000000000000001
-#Quadrillionth
